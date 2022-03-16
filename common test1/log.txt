@@ -1,0 +1,68 @@
+epoch: [1/50], loss: 1.09984183, acc: 0.3373, auc: 0.5074, time used: 10.8089m
+epoch: [2/50], loss: 1.08844307, acc: 0.3933, auc: 0.5853, time used: 11.3352m
+epoch: [3/50], loss: 0.94932034, acc: 0.5744, auc: 0.7754, time used: 11.3986m
+epoch: [4/50], loss: 0.76885526, acc: 0.6792, auc: 0.8573, time used: 11.4246m
+epoch: [5/50], loss: 0.62879595, acc: 0.7379, auc: 0.8970, time used: 11.4826m
+epoch: [6/50], loss: 0.54619351, acc: 0.7609, auc: 0.9150, time used: 11.3950m
+epoch: [7/50], loss: 0.48319323, acc: 0.7820, auc: 0.9262, time used: 13.0326m
+epoch: [8/50], loss: 0.43886226, acc: 0.8236, auc: 0.9501, time used: 11.4159m
+epoch: [9/50], loss: 0.41861618, acc: 0.8383, auc: 0.9559, time used: 11.3844m
+epoch: [10/50], loss: 0.39400877, acc: 0.8172, auc: 0.9477, time used: 11.4018m
+epoch: [11/50], loss: 0.36987815, acc: 0.8669, auc: 0.9685, time used: 11.4858m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [12/50], loss: 0.35733106, acc: 0.8608, auc: 0.9664, time used: 11.5196m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [13/50], loss: 0.34053859, acc: 0.8679, auc: 0.9675, time used: 11.5305m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [14/50], loss: 0.33071105, acc: 0.8692, auc: 0.9691, time used: 11.5295m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [15/50], loss: 0.31734747, acc: 0.8784, auc: 0.9715, time used: 11.5486m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [16/50], loss: 0.30979768, acc: 0.8865, auc: 0.9761, time used: 11.5778m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [17/50], loss: 0.29901005, acc: 0.8913, auc: 0.9771, time used: 11.5875m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [18/50], loss: 0.29009803, acc: 0.8945, auc: 0.9789, time used: 11.5677m
+epoch: [19/50], loss: 0.28208835, acc: 0.8899, auc: 0.9768, time used: 11.5616m
+epoch: [20/50], loss: 0.27640776, acc: 0.8884, auc: 0.9780, time used: 11.5637m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [21/50], loss: 0.26718680, acc: 0.8989, auc: 0.9812, time used: 11.5873m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [22/50], loss: 0.26448071, acc: 0.8997, auc: 0.9812, time used: 11.5857m
+epoch: [23/50], loss: 0.25878575, acc: 0.8920, auc: 0.9774, time used: 11.5751m
+epoch: [24/50], loss: 0.25649462, acc: 0.8944, auc: 0.9794, time used: 11.5784m
+epoch: [25/50], loss: 0.24875822, acc: 0.9017, auc: 0.9803, time used: 11.5738m
+epoch: [26/50], loss: 0.24713989, acc: 0.8995, auc: 0.9806, time used: 11.5652m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [27/50], loss: 0.24136234, acc: 0.9100, auc: 0.9842, time used: 11.5845m
+epoch: [28/50], loss: 0.23970498, acc: 0.9004, auc: 0.9815, time used: 11.5563m
+epoch: [29/50], loss: 0.23238447, acc: 0.9057, auc: 0.9831, time used: 11.5666m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [30/50], loss: 0.23250782, acc: 0.9121, auc: 0.9845, time used: 11.5671m
+epoch: [31/50], loss: 0.22922970, acc: 0.9100, auc: 0.9841, time used: 11.5580m
+epoch: [32/50], loss: 0.22512347, acc: 0.9016, auc: 0.9811, time used: 11.5749m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [33/50], loss: 0.22235843, acc: 0.9081, auc: 0.9846, time used: 11.6048m
+epoch: [34/50], loss: 0.21446043, acc: 0.9087, auc: 0.9834, time used: 11.6038m
+epoch: [35/50], loss: 0.21638935, acc: 0.9136, auc: 0.9838, time used: 11.6152m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [36/50], loss: 0.21881882, acc: 0.9159, auc: 0.9865, time used: 11.6494m
+epoch: [37/50], loss: 0.21030646, acc: 0.9131, auc: 0.9848, time used: 11.6221m
+epoch: [38/50], loss: 0.20652747, acc: 0.8884, auc: 0.9762, time used: 11.6189m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [39/50], loss: 0.20447265, acc: 0.9221, auc: 0.9871, time used: 11.6391m
+epoch: [40/50], loss: 0.20397781, acc: 0.9180, auc: 0.9865, time used: 11.6100m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [41/50], loss: 0.20062237, acc: 0.9225, auc: 0.9876, time used: 11.6275m
+epoch: [42/50], loss: 0.19633188, acc: 0.9023, auc: 0.9827, time used: 11.6260m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [43/50], loss: 0.19373720, acc: 0.9233, auc: 0.9884, time used: 11.6546m
+epoch: [44/50], loss: 0.19290572, acc: 0.9195, auc: 0.9872, time used: 11.6091m
+epoch: [45/50], loss: 0.19390635, acc: 0.9224, auc: 0.9878, time used: 11.6146m
+epoch: [46/50], loss: 0.18897535, acc: 0.9233, auc: 0.9877, time used: 11.6253m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [47/50], loss: 0.18660255, acc: 0.9256, auc: 0.9885, time used: 11.6388m
+epoch: [48/50], loss: 0.18341468, acc: 0.9152, auc: 0.9852, time used: 11.6422m
+epoch: [49/50], loss: 0.18416132, acc: 0.9041, auc: 0.9814, time used: 11.6764m
+====> Save checkpoint in ./checkpoint/best_auc_model.pth.tar
+epoch: [50/50], loss: 0.18265772, acc: 0.9324, auc: 0.9897, time used: 11.7034m

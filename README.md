@@ -3,7 +3,7 @@ Test task for GSoC 2022 about the project DeepLens.
 
 ## Common Test I. Multi-Class Classification
 
-**Environment: **
+**Environment:**
 
 - **Pytoch 1.10.0+cu102**
 - **Python 3.8**
